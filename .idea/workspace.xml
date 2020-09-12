@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fae929a0-def5-426d-b074-140428073b56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hJ9DHnTqZQf14aJFvl2IO10EZG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MovieRatingSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fae929a0-def5-426d-b074-140428073b56" name="Default Changelist" comment="" />
+      <created>1599718207020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599718207020</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="145" width="424" height="482" key="FileChooserDialogImpl" timestamp="1599731396526">
+      <screen x="0" y="27" width="1366" height="703" />
+    </state>
+    <state x="467" y="145" width="424" height="482" key="FileChooserDialogImpl/0.27.1366.703@0.27.1366.703" timestamp="1599731396526" />
+    <state width="1329" height="197" key="GridCell.Tab.0.bottom" timestamp="1599842665049">
+      <screen x="0" y="27" width="1366" height="703" />
+    </state>
+    <state width="1329" height="197" key="GridCell.Tab.0.bottom/0.27.1366.703@0.27.1366.703" timestamp="1599842665049" />
+    <state width="1329" height="197" key="GridCell.Tab.0.center" timestamp="1599842665048">
+      <screen x="0" y="27" width="1366" height="703" />
+    </state>
+    <state width="1329" height="197" key="GridCell.Tab.0.center/0.27.1366.703@0.27.1366.703" timestamp="1599842665048" />
+    <state width="1329" height="197" key="GridCell.Tab.0.left" timestamp="1599842665047">
+      <screen x="0" y="27" width="1366" height="703" />
+    </state>
+    <state width="1329" height="197" key="GridCell.Tab.0.left/0.27.1366.703@0.27.1366.703" timestamp="1599842665047" />
+    <state width="1329" height="197" key="GridCell.Tab.0.right" timestamp="1599842665048">
+      <screen x="0" y="27" width="1366" height="703" />
+    </state>
+    <state width="1329" height="197" key="GridCell.Tab.0.right/0.27.1366.703@0.27.1366.703" timestamp="1599842665048" />
+    <state width="1329" height="197" key="GridCell.Tab.1.bottom" timestamp="1599842665050">
+      <screen x="0" y="27" width="1366" height="703" />
+    </state>
+    <state width="1329" height="197" key="GridCell.Tab.1.bottom/0.27.1366.703@0.27.1366.703" timestamp="1599842665050" />
+    <state width="1329" height="197" key="GridCell.Tab.1.center" timestamp="1599842665049">
+      <screen x="0" y="27" width="1366" height="703" />
+    </state>
+    <state width="1329" height="197" key="GridCell.Tab.1.center/0.27.1366.703@0.27.1366.703" timestamp="1599842665049" />
+    <state width="1329" height="197" key="GridCell.Tab.1.left" timestamp="1599842665049">
+      <screen x="0" y="27" width="1366" height="703" />
+    </state>
+    <state width="1329" height="197" key="GridCell.Tab.1.left/0.27.1366.703@0.27.1366.703" timestamp="1599842665049" />
+    <state width="1329" height="197" key="GridCell.Tab.1.right" timestamp="1599842665049">
+      <screen x="0" y="27" width="1366" height="703" />
+    </state>
+    <state width="1329" height="197" key="GridCell.Tab.1.right/0.27.1366.703@0.27.1366.703" timestamp="1599842665049" />
+  </component>
+</project>
